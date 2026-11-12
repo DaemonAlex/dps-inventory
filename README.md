@@ -34,7 +34,7 @@ This project exists because of other people's work. All of it is theirs unless l
 |---|---|---|
 | [ox_inventory](https://github.com/overextended/ox_inventory): the inventory itself, its item, weapon, shop, stash and vehicle systems, its security model and its web screen | [Linden](https://github.com/thelindat), [Luke](https://github.com/LukeWasTakenn), [Dunak](https://github.com/dunak-debug) and the Overextended contributors | GPL-3.0-or-later |
 | [Ox Inventory Rework](https://github.com/Squidward97/ox_inventory-Lime-Scripts-Rework): equipment and utility slots, backpacks, armour plates, 3D inspection, the shop cart with card payments, the redesigned screen and its five themes | Lime Scripts ([Squidward97](https://github.com/Squidward97)) and contributors | GPL-3.0-or-later |
-| DelPerroSands theme, the self status panel, the carry-over for old bags, the item tools, the merge up to ox_inventory 2.48.1, and this documentation | [DelPerroSands](https://github.com/DaemonAlex) | GPL-3.0-or-later |
+| DelPerroSands theme, the self status panel, the carry-over for old bags, the item tools, the merge up to ox_inventory 2.48.1, and this documentation | [DaemonAlex](https://github.com/DaemonAlex), for DelPerroSands | GPL-3.0-or-later |
 
 If this is useful to you, the people to thank are the ox_inventory authors
 ([sponsor Linden](https://ko-fi.com/thelindat)) and Lime Scripts.
@@ -303,6 +303,10 @@ drunk, hungover, radiation, a broken tool, a wanted level. See "The status panel
 
 Not compatible: scripts written for qs-inventory, qb-inventory or another inventory, unless they
 also support ox_inventory.
+
+## Author
+
+Made by [DaemonAlex](https://github.com/DaemonAlex) for DelPerroSands.
 
 ## Other DPS scripts
 
